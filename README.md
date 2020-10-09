@@ -1,4 +1,4 @@
-<img align="centre" width="750" height="750" img src="https://i0.wp.com/www.creatingentrepreneursinfood.eu/wp-content/uploads/2017/02/GMIT-logo.png">
+<img align="centre" width="350" height="350" img src="https://i0.wp.com/www.creatingentrepreneursinfood.eu/wp-content/uploads/2017/02/GMIT-logo.png">
 
 # Tasks 2020 
 
