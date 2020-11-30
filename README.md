@@ -1,4 +1,5 @@
-<img align="centre"  width="500" height="500" img src="https://i0.wp.com/www.creatingentrepreneursinfood.eu/wp-content/uploads/2017/02/GMIT-logo.png">
+<img  width="500" height="500" img src="https://i0.wp.com/www.creatingentrepreneursinfood.eu/wp-content/uploads/2017/02/GMIT-logo.png">
+
 # Fundamentals of Data Analysis: Tasks 2020 Assessment
 
 * **Author:** John Paul Lee
@@ -17,7 +18,7 @@ The Assessment instructions can be found at [here](https://github.com/JPLee01/Ta
 **Table of Contents**
 ------------------------------------------------------------------------------------------------
 
-[*Fundamentals of Data Analysis: Tasks 2020 Assessment](#Fundamentals-of-Data-Analysis:-Tasks-2020-Assessment)
+[Fundamentals of Data Analysis: Tasks 2020 Assessment](#Fundamentals-of-Data-Analysis:-Tasks-2020-Assessment)
 
 [1. Introduction](#1-introduction)
 
