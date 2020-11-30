@@ -1,5 +1,4 @@
-<img  width="500" height="500" img src="https://i0.wp.com/www.creatingentrepreneursinfood.eu/wp-content/uploads/2017/02/GMIT-logo.png">
-
+<img align="centre"  width="500" height="500" img src="https://i0.wp.com/www.creatingentrepreneursinfood.eu/wp-content/uploads/2017/02/GMIT-logo.png">
 # Fundamentals of Data Analysis: Tasks 2020 Assessment
 
 * **Author:** John Paul Lee
@@ -13,7 +12,7 @@ A Jupyter Notebook has been created to store and demonstrate the four tasks for 
 
 **Lecturer:** Dr. Ian McLoughlin
 
-The Project instructions can be found at [here](XXXXX)
+The Assessment instructions can be found at [here](https://github.com/JPLee01/Tasks-2020/blob/main/Assessment%20Instructions.pdf)
 
 **Table of Contents**
 ------------------------------------------------------------------------------------------------
@@ -22,7 +21,7 @@ The Project instructions can be found at [here](XXXXX)
 
 [1. Introduction](#1-introduction)
 
-[2. Project Repository](#2-project-repository)
+[2. Assessment Repository](#2-Assessment-repository)
 
 [3. Tasks](#3-Tasks)
 
@@ -42,7 +41,7 @@ The Project instructions can be found at [here](XXXXX)
 
   [4.3  Libraries](#4.3-Libraries)
 
-[5. Summary, Conclusion and Future Analysis of the Tasks 2020 Assessment](#5.-Summary,-Conclusion-and-Future-Analysis-of-the-numpy.random-Package)
+[5. Summary, Conclusion and Future Analysis of the Tasks 2020 Assesssment](#5.-Summary,-Conclusion-and-Future-Analysis-of-the-Tasks-2020-Assesssment)
 
 [6. References](#6-References)
 
@@ -53,7 +52,7 @@ The Project instructions can be found at [here](XXXXX)
 
 
 
-# 2 Project Repository
+## 2 Assessment Repository
 ------------------------------------------------------------------------------------------------
 
 The Assessment Repository is the source where all the work associated with
@@ -116,7 +115,7 @@ Tasks-2020.ipynb
 The following Python libraries were used in the writing of the programs code and are required to successfully run the programs:
 * XXXXXXX
 
-## 5 Summary, Conclusion and Future Analysis of the numpy.random Package
+## 5 Summary, Conclusion and Future Analysis of the Tasks 2020 Assesssment
 ------------------------------------------------------------------------------------------------
 In summary 
 
@@ -132,12 +131,10 @@ References will be indicated numerically throughout the Jupyter Notebook and wil
 ------------------------------------------------------------------------------------------------
 Within the course of this assignment the following sources were used for research purposes:
 
+### Task 1 - Counts
 
+### Task 2 - Dicerolls
 
+### Task 3 - numpy.random.binomial
 
-
-
-
-
-## Task 1 - Counts
-Requirment is to write a Python function called Counts that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values. Caveat is that the code should not depend on any module from the standard library or otherwise.
+### Task 4 - Simpson’s Paradox
