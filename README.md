@@ -5,7 +5,7 @@
 * **Author:** John Paul Lee
 * **Github:** JPLee01
 * **Email:** G00387906@gmit.ie
-* **Created:** 09-10-2020, **Last update:** -12-2020
+* **Created:** 09-10-2020, **Last update:** 18-12-2020
 ------------------------------------------------------------------------------------------------
 **Fundamentals of Data Analysis:** Tasks 2020 Assessment
 
@@ -50,8 +50,7 @@ The Assessment instructions can be found at [here](https://github.com/JPLee01/Ta
 
 ## 1 Introduction
 ------------------------------------------------------------------------------------------------
-
-
+This repository has been created as part of the assessment of the Fundamentals of Data Analysis module. The aim of this assessment is to help the student gain an understanding and confidence in tackling the type of tasks a Data Analyst may face in their line of work. Four seperate tasks have been laid out each with a detailed explanation of the task and the accompanying solution. The four tasks and solutions will be conducted through a Jupyter Notebook which will contain markdown text, images, Python code and Plots.
 
 ## 2 Assessment Repository
 ------------------------------------------------------------------------------------------------
@@ -70,7 +69,7 @@ located [here](https://github.com/JPLee01/Tasks-2020):
 
 ## 3 Tasks
 ------------------------------------------------------------------------------------------------
-As part of the assessment, the student was given a set of instructions which can be viewed [here](XXXX). As seen, within the instructions a set of four tasks were printed. These tasks were the basis of the assessment and were described as follows:
+As part of the assessment, the student was given a set of instructions which can be viewed [here](https://github.com/JPLee01/Tasks-2020/blob/main/Assessment%20Instructions.pdf). As seen, within the instructions a set of four tasks were printed. These tasks were the basis of the assessment and were described as follows:
 
 ### 3.1 Counts
 Write a Python function called ```counts``` that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values. So, the input ```['A', 'A', 'B', 'C', 'A']``` should have output ```{'A': 3, 'B': 1, 'C': 1}```. Your code should not depend on any module from the standard library1 or otherwise. You should research the task first and include a description with references of your algorithm in the notebook.
@@ -113,16 +112,18 @@ Tasks-2020.ipynb
 7. The notebook should open in a new tab. You can run each cell with the keyboard shortcut SHIFT+ENTER, alternatively use the "play" button on the menu bar. Please note that certain cells must be run before others e.g. the cells importing the various Python libraries. You may find it convenient to use the "Run all Cells" option in the "Run" dropdown menu.
 
 ### 4.3 Libraries
-The following Python libraries were used in the writing of the programs code and are required to successfully run the programs:
-* XXXXXXX
+The following Python libraries were used in the writing of the programs code and are required to successfully run the program:
+* [Numpy](https://www.numpy.org/) - Used for mathematical functions in the [Tasks-2020.ipynb](https://github.com/JPLee01/Tasks-2020/blob/main/Tasks-2020.ipynb) notebook.
+* [Matplotlib.pyplot](https://matplotlib.org/tutorials/introductory/pyplot.html) - Used for the manipulation of elements and the creation of certain plots graphs within the [Tasks-2020.ipynb](https://github.com/JPLee01/Tasks-2020/blob/main/Tasks-2020.ipynb) notebook.
+* [Seaborn](https://seaborn.pydata.org/) - Used for the manipulation of elements and the creation of certain plots graphs within the [Tasks-2020.ipynb](https://github.com/JPLee01/Tasks-2020/blob/main/Tasks-2020.ipynb) notebook.
 
 ## 5 Summary, Conclusion and Future Analysis of the Tasks 2020 Assesssment
 ------------------------------------------------------------------------------------------------
-In summary 
+In summary this repository was created to complete the four tasks laid down in the assessment for the Fundamentals of Data Analysis module. These tasks each dealt with a different area in the field of data analysis and required both research and programming. This assessment tested the author as some of the areas dealt with in the assessment the author had no prior knowledge of. Thankfully through detailed analysis and research the author was able to complete the four tasks. 
 
-In conclusion 
+In conclusion after completion of the assessment the author feels they have gained an greater understanding into the type of tasks a Data Analyst may face. Due to the four tasks being stand-alone tasks each dealing with a different area extensive research and analysis had to be undertaken. This resulted in the author gaining a broader understanding in the area of data analysis. The author now feels they have a level of confidence with regards to potential data analysis tasks which was not present before undertaking the assessment. The author also feels that this new knowledge, will be of significant benefit as they continue their studies.
 
-In terms of future analysis of the *Tasks 2020* Assessment
+In terms of future analysis of the *Tasks 2020* Assessment the scope is endless. In essence, the areas dealt with in the assessment could be analysed up to PhD level. The author in their research discovered some areas in which the tasks could be further researched and alluded to them in their [Tasks-2020.ipynb](https://github.com/JPLee01/Tasks-2020/blob/main/Tasks-2020.ipynb) notebook. With data being described as the new raw material of business topics such as the ones dealt with in the assessment, are more important now than ever.
 
 ## 6 References
 ------------------------------------------------------------------------------------------------
@@ -133,9 +134,69 @@ References will be indicated numerically throughout the Jupyter Notebook and wil
 Within the course of this assignment the following sources were used for research purposes:
 
 ### Task 1 - Counts
+* Code Academy - "for x in list" verses "for x in range(len(list)), <https://www.codecademy.com/forum_questions/558ae27493767630000004f5?locale=en> 
+
+* Gabriel Cánepa - Manipulating Lists and Dictionaries in Python, <https://www.pluralsight.com/guides/manipulating-lists-dictionaries-python>
+
+* Geeks for Geeks - Counting the frequencies in a list using dictionary in Python, <https://www.geeksforgeeks.org/counting-the-frequencies-in-a-list-using-dictionary-in-python/>
+
+* Geeks for Geeks - Python | Count number of items in a dictionary value that is a list, <https://www.geeksforgeeks.org/python-count-number-of-items-in-a-dictionary-value-that-is-a-list/>
+
+* Jamel Dargan - Create a Dictionary From a List, <https://medium.com/swlh/create-a-dictionary-from-a-list-65742246ab4b>
+
+* Stack Overflow - Count how many times a dictionary value is found with more than one key, <https://stackoverflow.com/questions/18582370/count-how-many-times-a-dictionary-value-is-found-with-more-than-one-key>
+
+* Xspdf.com - Python dictionary count values per key, <https://www.xspdf.com/resolution/50472727.html>
 
 ### Task 2 - Dicerolls
+* Dapper Dino - Python Tutorial 4 - Simple Roll A Dice Task, <https://www.youtube.com/watch?v=PN5Mx_Ajrzs>
+
+* Data Science Unlimted - Step By Step: Coding A Dice Roll Simulator In Python, <https://datascienceunlimited.tech/step-by-step-coding-a-dice-roll-simulator-in-python/>
+
+* Hamza Hesham - Dice rolling game using python, <https://dev.to/oxy_oxide/dice-rolling-game-using-python-pn>
+
+* PYnative - Python range() function explained with examples, <https://pynative.com/python-range-function/>
+
+* Python for Beginners - Python Game : Rolling the dice, <https://www.pythonforbeginners.com/code-snippets-source-code/game-rolling-the-dice>
+
+* Rebeca Ansar - How to Simulate a Dice Roll and Guess the Result in Python, <https://medium.com/an-amygdala/how-to-simulate-a-dice-roll-and-guess-the-result-in-python-9785079af6f3>
+
+* Stack Overflow - Dice rolling simulator in Python, <https://stackoverflow.com/questions/44008489/dice-rolling-simulator-in-python>
 
 ### Task 3 - numpy.random.binomial
+* Prashanth Gowda - Biased Coin Flipping simulation in Python, <https://www.codespeedy.com/biased-coin-flipping-simulation-in-python/>
+
+* R Pubs - Takes 1 random sample from the vector (in this case, c(“heads”, “tails”) you supplied in the first argument, <https://rpubs.com/DThurtleSchmdit/530416>
+
+* Stack Overflow - Binomial distribution simulation python, <https://stackoverflow.com/questions/63839778/binomial-distribution-simulation-python>
+
+* Stack Overflow - binomial distribution using numpy, <https://stackoverflow.com/questions/62305011/binomial-distribution-using-numpy>
+
+* Stack Overflow - Python Coin Toss, <https://stackoverflow.com/questions/14882530/python-coin-toss>
+
+* Stack Overflow - Random experiment of Binomial distribution using stats in python, <https://stackoverflow.com/questions/55113404/random-experiment-of-binomial-distribution-using-stats-in-python>
+
+* w3schools.com - Binomial Distribution, <https://www.w3schools.com/python/numpy_random_binomial.asp>
 
 ### Task 4 - Simpson’s Paradox
+* Aleix Ruiz de Villa - Solving Simpson’s Paradox, <https://towardsdatascience.com/solving-simpsons-paradox-e85433c68d03>
+
+* California DDS Expenditures - Simpson’s Paradox - In Python, <https://www.kaggle.com/saicataram/simpson-s-paradox-in-python>
+
+* Encyclopædia Britannica -Simpson's Paradox, <https://www.britannica.com/topic/Simpsons-paradox>
+
+* Geek for Geeks - Different ways to create Pandas Dataframe, <https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/>
+
+* Judea Pearl - Understanding Simpson’s Paradox, <https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf>
+
+* Lucy Hornby et al. - China fake data mask economic rebound, <https://www.ft.com/content/a9889330-f51c-11e7-88f7-5465a6ce1a00>
+
+* note.nkmk.me - pandas: Rename index / columns names (labels) of DataFrame, <https://note.nkmk.me/en/python-pandas-dataframe-rename/>
+
+* Numpy 1.19 Manual - numpy.linspace, <https://numpy.org/doc/stable/reference/generated/numpy.linspace.html>
+
+* Shanto Roy - Creating Bar Charts using Python Matplotlib, <https://shantoroy.com/python/python-bar-chart-using-matplotlib/>
+
+* Stack Overflow - How to create a dataframe from numpy arrays?, <https://stackoverflow.com/questions/53820131/how-to-create-a-dataframe-from-numpy-arrays/53820222#53820222>
+
+* Will Koehrsen - Simpson’s Paradox: How to Prove Opposite Arguments with the Same Data, <https://towardsdatascience.com/simpsons-paradox-how-to-prove-two-opposite-arguments-using-one-dataset-1c9c917f5ff9>
