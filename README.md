@@ -140,11 +140,19 @@ Within the course of this assignment the following sources were used for researc
 
 * Geeks for Geeks - Counting the frequencies in a list using dictionary in Python, <https://www.geeksforgeeks.org/counting-the-frequencies-in-a-list-using-dictionary-in-python/>
 
+* Geeks for Geeks - Python | Convert a list to dictionary, <https://www.geeksforgeeks.org/python-convert-a-list-to-dictionary/>
+
 * Geeks for Geeks - Python | Count number of items in a dictionary value that is a list, <https://www.geeksforgeeks.org/python-count-number-of-items-in-a-dictionary-value-that-is-a-list/>
+
+* Geeks for Geeks - How to count unique values inside a list, <https://www.geeksforgeeks.org/how-to-count-unique-values-inside-a-list/>
+
+* Grepper - find number of unique keys in the dictionary, <https://www.codegrepper.com/code-examples/python/find+number+of+unique+keys+in+the+dictionary>
 
 * Jamel Dargan - Create a Dictionary From a List, <https://medium.com/swlh/create-a-dictionary-from-a-list-65742246ab4b>
 
 * Stack Overflow - Count how many times a dictionary value is found with more than one key, <https://stackoverflow.com/questions/18582370/count-how-many-times-a-dictionary-value-is-found-with-more-than-one-key>
+
+* Stack Overflow - python dictionary count of unique values, <https://stackoverflow.com/questions/16406329/python-dictionary-count-of-unique-values>
 
 * Xspdf.com - Python dictionary count values per key, <https://www.xspdf.com/resolution/50472727.html>
 
